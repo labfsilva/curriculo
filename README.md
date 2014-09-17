@@ -38,9 +38,11 @@ Facilidade com aprendizado de novas linguagens ( Lógica e Algorítmos ).
 ##Escolaridade
 
 Ensino Superior em Curso - 2012  
-**Análise e Desenvolvimento de Sistemas** - Entidade: IFMS ( Institudo Federal de Mato Grosso do Sul )  
+**Análise e Desenvolvimento de Sistemas** - Entidade: IFMS (Institudo Federal de Mato Grosso do Sul)  
+
 Ensino Superior Completo - 2011  
-**História** - Entidade: UFMS ( Universidade Federal de Mato Grosso do Sul )  
+**História** - Entidade: UFMS ( Universidade Federal de Mato Grosso do Sul )    
+
 Ensino Superior Incompleto - 2007  
 **Matemática** - Entidade: UEMS ( Universidade Estadual de Mato Grosso do Sul )  
 
