@@ -18,7 +18,6 @@ Atualmente trabalho em Home office com Ruby on Rails deste de março de 2014.
 **Observação:**   
 Dentre os seis anos também foram executados trabalhos com linguagem de  marcação como CSS e HTML, sendo que, nos últimos anos, utilizou-se suas formas mais atuais, ou seja, CSS3 e o HTML5.
 
-
 ##Objetivo
 
 Atuar na área de desenvolvimento web como: 
