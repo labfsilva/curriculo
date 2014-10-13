@@ -22,7 +22,7 @@ Dentre os seis anos também foram executados trabalhos com linguagem de  marcaç
 
 Atuar na área de desenvolvimento web como: 
 
- - Programador:  na área de programação com linguagem já cidata bem como outras a mim designado; 
+ - Programador:  na área de programação com linguagens já cidatas ou outras a mim designado; 
  - Web Standart (padrões web);
  - Trabalhar com linguagem de desenvolvimento: Ruby on Rails.
 
