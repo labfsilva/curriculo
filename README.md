@@ -51,7 +51,7 @@ Ensino Superior Incompleto - 2007
 Cargo: Programador Ruby (Ruby, Ruby on Rails, Postgre)
 Extras: Configuração e manutenção de servidores.
 
-**Falando de Viagem** - Março de 2014 à Setembro de 2014 (HomeOffice)
+**Falando de Viagem** - Março de 2014 à Setembro de 2014 (HomeOffice)    
 Cargo: Programador Ruby (Ruby, Ruby on Rails, Mysql)  
 Site: www.falandodeviagem.com.br  
 
