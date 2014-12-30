@@ -13,7 +13,7 @@ Nova Andradina / MS
 Três anos de experiência na área  de tecnologia da informação (suporte técnico e redes). Experiência de seis anos e meio em desenvolvimento web (programação) com conhecimento adquirido nas linguagens PHP, SQL e JS (jquery) utilizando como diferencial, paradigmas da orientação a objeto e Frameworks (Codeigniter).   
 Durante os seis anos fui responsável pela área de desenvolvimento e criação de sistemas para o gerenciamento de conteúdos.   
 No meio acadêmico foi executados trabalhos com Ruby e banco de dados MongoDB. Essas duas tecnologias também foram utilizadas em projetos pessoas que podem ser visualizadas em: http://github.com/luizpicolo.  
-Deste de março de 2014 trabalho com Ruby on Rails.
+Deste de março de 2014 trabalhando com Ruby on Rails e as boas práticas ágeis.
 
 **Observação:**   
 Dentre os seis anos também foram executados trabalhos com linguagem de  marcação como CSS e HTML, sendo que, nos últimos anos, utilizou-se suas formas mais atuais, ou seja, CSS3 e o HTML5.
