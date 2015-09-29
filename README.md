@@ -20,17 +20,17 @@ Dentre os seis anos também foram executados trabalhos com linguagem de  marcaç
 
 ##Objetivo
 
-Atuar na área de desenvolvimento web como: 
+Atuar na área de desenvolvimento web como:
 
- - Programador:  na área de programação com linguagens já cidatas ou outras a mim designado; 
+ - Programador:  na área de programação com linguagens já cidatas ou outras a mim designado;
  - Web Standart (padrões web);
  - Trabalhar com linguagem de desenvolvimento: Ruby on Rails.
 
 Em ambas os campos de atuação sempre visando aplicar meus conhecimentos para a realização das atividades a mim designada, buscando assim, desafíos e oportunidades.
 
 ##Perfil Profissional
- 
-Durante os 6 anos trabalhei em um pequena equipe de desenvolvedores e designers. Nesta equipe atuava como programador. 
+
+Durante os 6 anos trabalhei em um pequena equipe de desenvolvedores e designers. Nesta equipe atuava como programador.
 Como forma de facilitar a atualização dos sistema desenvolvidos pela empresa, fiz parte da equipe que desenvolveu um CMS (target), o qual dava maior liberdade para o usuário final e facilitava o seu trabalho.
 Já como programador Ruby, além de fazer a migração dos sistemas antigos para a linguagem já citada, fui responsável na configuração dos servidores (staging e production).
 
@@ -76,17 +76,10 @@ Cargo: Suporte Técnico ( Suporte e Redes )
 
 ## Interesses profissionais
 
-Atualmente tenho como foco , Ruby, Ruby on Rails, Sinatra, metodologias ágeis, TDD, BDD, RSpec, PostgreSQL, Git, Continuous Integration, Nosql. 
+Atualmente tenho como foco , Ruby, Ruby on Rails, Sinatra, metodologias ágeis, TDD, BDD, RSpec, PostgreSQL, Git, Continuous Integration, Nosql.
 
 ##Perfis Profissionais e Portfolio
 
 http://www.linkedin.com/in/luizpicolo  
 http://www.luizpicolo.com.br  
 http://www.github.com.br/luizpicolo  
-https://www.facebook.com/media/set/?set=a.3149604746089.2159486.1444218910&type=1&l=63e7eecd21  
-
-***
-Última atualização: 16/09/2014
-
-
-
