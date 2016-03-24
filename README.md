@@ -36,7 +36,7 @@ Já como programador Ruby, além de fazer a migração dos sistemas antigos para
 
 ##Escolaridade
 
-Ensino Superior em Curso - 2012  
+Ensino Superior em Completo - 2015  
 **Análise e Desenvolvimento de Sistemas** - Entidade: IFMS (Institudo Federal de Mato Grosso do Sul)  
 
 Ensino Superior Completo - 2011  
